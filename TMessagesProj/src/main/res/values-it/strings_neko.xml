@@ -117,4 +117,9 @@
     <string name="formatterDay24HSec">HH:mm:ss</string>
     <string name="formatterDay12HSec">h:mm:ss a</string>
     <string name="FormatWithSeconds">Formato ora con i secondi</string>
+    <string name="JumpToBeginning">Vai all\'inizio</string>
+    <string name="Halloween">Halloween</string>
+    <string name="ProviderMicrosoftTranslator">Microsoft Traduttore</string>
+    <string name="ProviderYouDao">YouDao Traduttore</string>
+    <string name="AvatarAsBackground">Immagine del profilo come sfondo</string>
 </resources>
