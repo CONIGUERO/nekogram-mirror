@@ -118,26 +118,6 @@
     <string name="formatterDay12HSec">h:mm:ss a</string>
     <string name="FormatWithSeconds">Formato ora con i secondi</string>
     <string name="JumpToBeginning">Vai all\'inizio</string>
-    <string name="ProviderDeepLTranslate">DeepL Traduttore</string>
+    <string name="ProviderDeepLTranslate">DeepL Translate</string>
     <string name="Halloween">Halloween</string>
-    <string name="CheckUpdate">Controlla aggiornamenti</string>
-    <string name="LastUpdateFormatted">Ultimo controllo effettuato %1$s.</string>
-    <string name="LastUpdateDateFormatted">Ultimo controllo effettuato alle %1$s.</string>
-    <string name="LastUpdateRecently">Ultimo controllo effettuato proprio ora.</string>
-    <string name="LastUpdateNever">Mai effettuato dall\'installazione.</string>
-    <string name="CheckingUpdate">Controllo aggiornamenti…</string>
-    <string name="NewUpdateAvailable">Nuovo aggiornamento disponibile</string>
-    <string name="GuGuGu">Dopo</string>
-    <string name="DownloadNow">Scarica ora</string>
-    <string name="DownloadingUpdate">Download aggiornamento</string>
-    <string name="DownloadingUpdateFinish">Aggiornamento scaricato, clicca per installare</string>
-    <string name="DownloadingUpdateFail">Download fallito</string>
-    <string name="ClickToRetry">Clicca per riprovare.</string>
-    <string name="ProviderMicrosoftTranslator">Microsoft Traduttore</string>
-    <string name="ProviderYouDao">YouDao Traduttore</string>
-    <string name="TranslationProviderShort">Fornitore</string>
-    <string name="ViewSourceCode">Vedi codice sorgente</string>
-    <string name="AvatarAsBackground">Immagine del profilo come sfondo</string>
-    <string name="BlurAvatarBackground">Immagine del profilo sfocata</string>
-    <string name="DarkenAvatarBackground">Immagine del profilo scurita</string>
 </resources>
