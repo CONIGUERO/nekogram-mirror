@@ -132,4 +132,5 @@
     <string name="DownloadingUpdateFinish">Обновление загружено, нажмите для установки</string>
     <string name="DownloadingUpdateFail">Не удалось загрузить обновление</string>
     <string name="ClickToRetry">Нажмите, чтобы повторить попытку.</string>
+    <string name="ProviderMicrosoftTranslator">Переводчик Microsoft</string>
 </resources>
